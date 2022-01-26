@@ -8,7 +8,7 @@
 
 - 👨🏻‍🎓 Formado em Sistemas de Informação
 - 👨🏻‍🏫 Tenho um curso de montagem e manutenção de pc's: [Curso na Udemy][udemy]!
-- Fiz um guia de desenvolvimento [Guia Dev-Web 2022][guiadev]
+- ✍🏻 Fiz um guia de desenvolvimento [Guia Dev-Web 2022][guiadev]
 - 🚀 Estou sempre estudando alguma tecnologia que pode ser utilizada no back-end e banco de dados
 - 🔥 Procuro sempre ajudar outros dev's e contribuir com a comunidade
 
