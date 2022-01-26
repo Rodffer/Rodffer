@@ -1,11 +1,13 @@
 ### Olá, eu sou o Rayron - [RODFFER][brainrod] 🧑🏻‍🚀
+<img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCTP8zkwyG7gziviy2Eg23mg?label=YouTube%2FRayronRodffer&style=for-the-badge">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Rodffer/Rodffer?color=blue&label=Ultima%20atualiza%C3%A7%C3%A3o&style=for-the-badge">
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+<br />
 
-## Eu sou dev back-end, estudo e gosto de tecnologia!!
+## Sou dev back-end, estudo e gosto de tecnologia!!
 
-- 👨🏻‍🏫 Eu tenho um curso de montagem e manutenção de pc's: [Curso na Udemy][udemy]!
+- 👨🏻‍🎓 Formado em Sistemas de Informação
+- 👨🏻‍🏫 Tenho um curso de montagem e manutenção de pc's: [Curso na Udemy][udemy]!
 - 🚀 Estou sempre estudando alguma tecnologia que pode ser utilizada no back-end e banco de dados
 - 🔥 Procuro sempre ajudar outros dev's e contribuir com a comunidade
 
@@ -61,13 +63,6 @@
 👀 [mais vídeos...](https://www.youtube.com/channel/UCTP8zkwyG7gziviy2Eg23mg)
 
 ---
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rodffer&show_icons=true&hide_border=true" />
-
-</details>
 
 [brainrod]: https://www.brainrod.com.br/#/
 [udemy]: https://www.udemy.com/course/vivendo-de-ti-2021/?referralCode=B19F6EFE9AAD40D66D33
