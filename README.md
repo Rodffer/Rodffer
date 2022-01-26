@@ -1,6 +1,6 @@
 ### Olá, eu sou o Rayron - [RODFFER][brainrod] 🧑🏻‍🚀
-<img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCTP8zkwyG7gziviy2Eg23mg?label=YouTube%2FRayronRodffer&style=for-the-badge">
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Rodffer/Rodffer?color=blue&label=Ultima%20atualiza%C3%A7%C3%A3o&style=for-the-badge">
+[<img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCTP8zkwyG7gziviy2Eg23mg?label=YouTube%2FRayronRodffer&style=for-the-badge">][youtube]
+[<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Rodffer/Rodffer?color=blue&label=Ultima%20atualiza%C3%A7%C3%A3o&style=for-the-badge">][github]
 
 <br />
 
@@ -8,6 +8,7 @@
 
 - 👨🏻‍🎓 Formado em Sistemas de Informação
 - 👨🏻‍🏫 Tenho um curso de montagem e manutenção de pc's: [Curso na Udemy][udemy]!
+- Fiz um guia de desenvolvimento [Guia Dev-Web 2022][guiadev]
 - 🚀 Estou sempre estudando alguma tecnologia que pode ser utilizada no back-end e banco de dados
 - 🔥 Procuro sempre ajudar outros dev's e contribuir com a comunidade
 
@@ -72,3 +73,5 @@
 [linkedin]: https://bit.ly/3hJLMm4
 [discord]: https://bit.ly/3hOzKbc
 [facebook]: https://bit.ly/36KX2Io
+[guiadev]: https://whimsical.com/guia-de-desenvolvimento-web-2022-KKW979kbiVa7Bd6dS7zrBL@7YNFXnKbZA7LZZ9ZK9Ver
+[github]: https://github.com/Rodffer
