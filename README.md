@@ -36,7 +36,7 @@
 <img style="margin-right: 10px" align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img style="margin-right: 10px" align="left" alt="MongoDB" width="40px" src="https://img.icons8.com/color/344/mongodb.png" />
 <img style="margin-right: 10px" align="left" alt="Git" width="40px" src="https://img.icons8.com/color/344/git.png" />
-<img style="margin-right: 10px" align="left" alt="GitHub" width="40px" src="https://cdn-icons.flaticon.com/png/512/3291/premium/3291667.png?token=exp=1643154733~hmac=0d8ae09a0c5755bf709208b183673dd9" />
+<img style="margin-right: 10px" align="left" alt="GitHub" width="40px" src="https://img.icons8.com/fluency/344/github.png" />
 <img style="margin-right: 10px" align="left" alt="Terminal" width="40px" src="https://img.icons8.com/fluency/344/console.png" />
 <img style="margin-right: 10px" align="left" alt="Docker" width="40px" src="https://img.icons8.com/color/344/docker.png" />
 <img style="margin-right: 10px" align="left" alt="Insomnia" width="40px" src="https://cms-react-testing.cdn.prismic.io/cms-react-testing/fd794b96-f464-432b-b79a-bf99341b2143_insomnia-logo-bug.svg" />
@@ -58,7 +58,7 @@
 - [Meu Setup](https://youtu.be/ykkXu219FS0)
 <!-- YOUTUBE:END -->
 
-➡️ [mais vídeos...](https://www.youtube.com/channel/UCTP8zkwyG7gziviy2Eg23mg)
+👀 [mais vídeos...](https://www.youtube.com/channel/UCTP8zkwyG7gziviy2Eg23mg)
 
 ---
 
